@@ -1,0 +1,11 @@
+Pre-Requisite
+Install Node.js
+https://nodejs.org/en/download/
+
+1. Copy music-recommender folder to PC
+2. Open a cmd window in the music-recommender folder
+3. npm install
+4. npm start
+
+Have fun!
+
